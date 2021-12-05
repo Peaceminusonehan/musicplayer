@@ -74,7 +74,7 @@ body{
 
 .he{
   box-shadow: 0 0 30px wheat;
-  z-index: 1;
+  z-index: 2;
 }
 
 .he:active{
@@ -129,7 +129,7 @@ body{
 
 .newdiv{
     margin: 0 auto;
-   
+   z-index: 1;
    padding: 20px;
    height: 400px;
     background-color: #E7F0FC;
